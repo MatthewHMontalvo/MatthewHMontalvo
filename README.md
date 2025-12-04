@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @MatthewHMontalvo
+Hey there! 👋
 
-- I hold a Master's degree in Biotechnology and Bioinformatics from Johns Hopkins University. I am enthusiastic about delving into the cutting-edge realms of genomic research, immunology, drug discovery, and personalized medicine.
+I’m **Matthew**, a **Bioinformatics Analyst**/Computational Biologist
 
-- I’m interested in personalized medicine and drug discovery within the fields of immunology, oncology, and virology.
+I hold an **MS in Biotechnology and Bioinformatics** from **Johns Hopkins University** 🐦‍⬛ and a **BS in Biomedical Science** from **Texas A&M University**👍. 
 
-- Reach out to me on LinkedIn, https://www.linkedin.com/in/matthewhmontalvo/
+I've worked on transplant **immunology** datasets to understand tolerance and rejection outcomes and used **Python**, **R**, **Bash**, and **SQL** for analysis.
+
+
+I am enthusiastic about delving into the cutting-edge realms of genomic research, immunology, drug discovery, and personalized medicine.
+**I’m interested in the fields of immunology, oncology, and virology.**
+
+Reach out to me on LinkedIn, https://www.linkedin.com/in/matthewhmontalvo/
 
 <!---
 MatthewHMontalvo/MatthewHMontalvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
