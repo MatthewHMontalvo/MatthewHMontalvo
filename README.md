@@ -2,12 +2,8 @@ Hey there! 👋
 
 I’m **Matthew**, a **Bioinformatics Analyst**/Computational Biologist
 
-I hold an 
-
-**MS in Biotechnology and Bioinformatics** from **Johns Hopkins University** 🐦‍⬛ and a 
-
+I hold an **MS in Biotechnology and Bioinformatics** from **Johns Hopkins University** 🐦‍⬛ and a 
 **BS in Biomedical Science** from **Texas A&M University**👍. 
-
 
 I've worked on transplant **immunology** datasets to understand tolerance and rejection outcomes and used **Python**, **R**, **Bash**, and **SQL** on a **UNIX** system for analysis.
 
