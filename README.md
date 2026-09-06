@@ -9,7 +9,7 @@ I am enthusiastic about delving into the cutting-edge realms of genomic research
 
 **I’m interested in the fields of immunology, oncology, and virology.**
 
-Reach out to me on LinkedIn, https://www.linkedin.com/in/matthewhmontalvo/
+Reach out to me on LinkedIn, https://www.linkedin [dot] com/in/matthewhmontalvo/
 
 <!---
 MatthewHMontalvo/MatthewHMontalvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
